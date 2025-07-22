@@ -1,4 +1,4 @@
-/*let score = 33
+let score = 33
 console.log(typeof score);
 console.log(typeof(score));
 
@@ -32,7 +32,7 @@ console.log(booleanNumber);
 //  0 =>false;
 //  "" =>false;
 // "hitesh" => true
-*/
+
 
 let  num = 33
 let stringnum= String(num)
